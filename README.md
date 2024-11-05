@@ -45,6 +45,22 @@ Wisplayer is a simple, user-friendly music player application for Android, built
 
 ---
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](images/homw.jpg)
+
+### Music Screen
+![Music Screen](images/playback_screen.jpg)
+
+### Folder Browsing
+![Folder Browsing](images/library.jpg)
+
+### Playlist
+![Playlist](images/playlist.jpg)
+
+---
+
 ## ⚙️ Current Development Status
 
 - **Browser and Music Player**: Fully functional.
